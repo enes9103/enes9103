@@ -60,10 +60,10 @@
 
 
 - 📫 How to reach me: 
-- <a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
+<a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
-- <a href="mailto:enes9103" target="_blank">
+</a>
+<a href="mailto:enes9103" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
 </a>
--..
 -->
