@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=enes9103&show_icons=true&theme=tokyonight" align='right' width="55%">
 
 # Hi there 👋 Enes here! Loves developing..
-
+### 📩 Connect with me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes9103" alt="enes9103" /> </p>
 <a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
