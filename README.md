@@ -2,14 +2,14 @@
 
 # Hi there 👋 Enes here! Loves developing..
 
-<p align="left"> <img src="https://github.com/enes9103" alt="enes9103" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enes9103" alt="enes9103" /> </p>
 <a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
 </a>
 <a href="mailto:enes9103" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
 </a>
-<a href="https://btlkurumsalbtl.medium.com/" target="_blank">
+<a href="https://medium.com/@enes9103/" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@enes9103">
 </a>
 <a href="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A" target="_blank">
