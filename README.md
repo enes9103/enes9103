@@ -31,7 +31,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="HTML5" width="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][HTML5]
 [<img align="left" alt="React" width="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />][react]
-[<img align="left" alt="Javascript" width="26px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][js]
+[<img align="left" alt="Javascript" width="26px" src="https://img2.pngindir.com/20180720/pjj/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8.5939232615320700654495.jpg" />][js]
 [<img align="left" alt="Linux" width="26px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />][linux]
 
 <br />
