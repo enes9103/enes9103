@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@enes9103">
 </a>
 <a href="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A" target="_blank">
-    <img width="60px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A">
+    <img width="80px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A">
 </a>
 <a>
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
