@@ -29,26 +29,26 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="html5" width="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][HTML5]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
-[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
+[<img align="left" alt="HTML5" width="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />][HTML5]
+[<img align="left" alt="React" width="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />][react]
+[<img align="left" alt="Javascript" width="26px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][js]
+[<img align="left" alt="Linux" width="26px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />][linux]
 
 <br />
 
-[flutter]: https://flutter.dev/
+[react]: https://tr.reactjs.org/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/enes9103
 [python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
+[js]: https://www.javascript.com/
+[linux]: https://www.linux.org/
 
 <br />
 <br />
 ## Medium Articles
-- [Yeni başlayanlar için IT..Siz de konumlandıramadıklarımızdan mısınız?](https://btlkurumsalbtl.medium.com/yeni-ba%C5%9Flayanlar-i%C3%A7in-it-sizde-konumland%C4%B1ramad%C4%B1klar%C4%B1m%C4%B1zdan-m%C4%B1s%C4%B1n%C4%B1z-7990b013427b)
+- [Yeni başlayanlar için IT..Siz de konumlandıramadıklarımızdan mısınız?]
+- (https://btlkurumsalbtl.medium.com/yeni-ba%C5%9Flayanlar-i%C3%A7in-it-sizde-konumland%C4%B1ramad%C4%B1klar%C4%B1m%C4%B1zdan-m%C4%B1s%C4%B1n%C4%B1z-7990b013427b)
 - [HTML oldu sana XML](https://btlkurumsalbtl.medium.com/html-oldu-sana-xml-d6d3d2cae617)
 
 - 📫 How to reach me: 
