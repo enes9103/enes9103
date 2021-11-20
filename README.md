@@ -2,9 +2,8 @@
 
 # Hi there 👋 Enes here! Loves developing..
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes9103" alt="enes9103" /> </p>
-### 📩 Connect with me:
+## 📩 Connect with me:
 <br>
-<hr>
 <a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
 </a>
@@ -21,19 +20,19 @@
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
 </a>    
 
-## 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
+### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
 - 🥅 2021 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
 - ⚡ Fun fact: I love to running , play chess ♟and cycling 🚴‍♀️
 - 💬 You can ask me anything you want to know
 
 
-## ⏲ What we are doing now:
+#### ⏲ What we are doing now:
 - 🚀 I'm developing a project for Teknofest, i keep improving myself 📃.
 - 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
 - 💻 I also work as a FreeLancer.
 
-### 🔧 Languages and Tools:
+###### 🔧 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
