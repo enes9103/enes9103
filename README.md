@@ -2,8 +2,6 @@
 
 # Hi there 👋 Enes here! Loves developing..
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes9103" alt="enes9103" /> </p>
-📩 Connect with me:
-
 <a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
 </a>
@@ -14,7 +12,7 @@
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@enes9103">
 </a>
 <a href="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A">
+    <img width="40px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A">
 </a>
 <a>
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
