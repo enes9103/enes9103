@@ -57,9 +57,7 @@
 <br />
 <br />
 ###### Medium Articles
-- [Yeni başlayanlar için IT..Siz de konumlandıramadıklarımızdan mısınız?]
-- (https://btlkurumsalbtl.medium.com/yeni-ba%C5%9Flayanlar-i%C3%A7in-it-sizde-konumland%C4%B1ramad%C4%B1klar%C4%B1m%C4%B1zdan-m%C4%B1s%C4%B1n%C4%B1z-7990b013427b)
-- [HTML oldu sana XML](https://btlkurumsalbtl.medium.com/html-oldu-sana-xml-d6d3d2cae617)
+
 
 - 📫 How to reach me: 
 - <a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
