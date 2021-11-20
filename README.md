@@ -19,9 +19,17 @@
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
 </a>    
 
-- 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
-- 💻 I want to collaborate on open source projects
+## 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)💻
+- 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
+- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning virtual reality and artificial intelligence 🤖
+- ⚡ Fun fact: I love to running , play chess ♟and cycling 🚴‍♀️
 - 💬 You can ask me anything you want to know
+
+
+## ⏲ What we are doing now:
+- 🚀 I'm developing a project for Teknofest, i keep improving myself 📃.
+- 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
+- 💻 I also work as a FreeLancer 🆓.
 
 ### 🔧 Languages and Tools:
 
