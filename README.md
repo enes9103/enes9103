@@ -29,9 +29,9 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="HTML5" width="52px" src="https://img2.pngindir.com/20180320/dde/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c840061922.801355261521535040025.jpg" />][HTML5]
-[<img align="left" alt="React" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" />][react]
-[<img align="left" alt="Javascript" width="52px" src="https://img2.pngindir.com/20180720/pjj/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8.5939232615320700654495.jpg" />][js]
+[<img align="left" alt="HTML5" width="56px" src="https://img2.pngindir.com/20180320/dde/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c840061922.801355261521535040025.jpg" />][HTML5]
+[<img align="left" alt="React" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" />][react]
+[<img align="left" alt="Javascript" width="56px" src="https://img2.pngindir.com/20180720/pjj/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8.5939232615320700654495.jpg" />][js]
 [<img align="left" alt="Linux" width="26px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />][linux]
 
 <br />
