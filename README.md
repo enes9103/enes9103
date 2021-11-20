@@ -56,8 +56,8 @@
 
 <br />
 <br />
-###### Medium Articles
-
+## Medium Articles
+<br>
 
 - 📫 How to reach me:
 
