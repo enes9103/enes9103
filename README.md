@@ -22,9 +22,31 @@
 - 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
 - 💻 I want to collaborate on open source projects
 - 💬 You can ask me anything you want to know
-## Technology Stack
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
 
+### 🔧 Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
+[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
+[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
+
+<br />
+
+[flutter]: https://flutter.dev/
+[vsCode]: https://code.visualstudio.com/
+[git]: https://git-scm.com/
+[android]: https://www.android.com/
+[github]: https://github.com/IbrahimTalha0
+[python]: https://www.python.org/
+[ios]: https://www.apple.com/ios/ios-14/
+[xd]: https://www.adobe.com/products/xd.html
+
+<br />
+<br />
 ## Medium Articles
 - [Yeni başlayanlar için IT..Siz de konumlandıramadıklarımızdan mısınız?](https://btlkurumsalbtl.medium.com/yeni-ba%C5%9Flayanlar-i%C3%A7in-it-sizde-konumland%C4%B1ramad%C4%B1klar%C4%B1m%C4%B1zdan-m%C4%B1s%C4%B1n%C4%B1z-7990b013427b)
 - [HTML oldu sana XML](https://btlkurumsalbtl.medium.com/html-oldu-sana-xml-d6d3d2cae617)
