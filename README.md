@@ -43,6 +43,19 @@
 [<img align="left" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" />][react]
 [<img align="left" alt="Linux" width="56px" src="https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png" />][linux]
 <img align="left" alt="Jira" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/jira.jpg" />
+<img align="left" alt="Slack" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/slack.jpg" />
+<img align="left" alt="django" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/django.png" />
+<img align="left" alt="react" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/react.png" /><br><br><br>
+<img align="left" alt="redux" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/redux.png"/>
+<img align="left" alt="sass" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/sass.png" />
+<img align="left" alt="Material-UI" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MaterialUI.png" vlign=center/>
+<img align="left" alt="bootstrap" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/Bootstrap.jpg" />
+<img align="left" alt="styledcomponent" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/styledcomponents.png" />
+<img align="left" alt="postgreSQL" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/PostgreSQL.png" />
+<img align="left" alt="postman" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/postman.png" />
+<img align="left" alt="mongoDB" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/mongoDB.png" />
+<img align="left" alt="MySQL" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MySQL.png"/>
+<img align="left" alt="heroku" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/heroku.png"/>
 
 <br />
 
