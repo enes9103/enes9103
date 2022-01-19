@@ -69,7 +69,7 @@
 
 <br /><br><br>
 
-- 📫 How to reach me:
+📫 How to reach me:
 
 --> 
 <a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
