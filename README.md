@@ -67,7 +67,7 @@
 [linux]: https://www.linux.org/
 [HTML]: https://www.w3schools.com/html/
 
-<br><br><br><br>
+<br><br><br>
 
 📫 How to reach me:
 
