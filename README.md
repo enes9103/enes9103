@@ -44,7 +44,7 @@
 [<img align="left" alt="Linux" width="66px" src="https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png" />][linux]
 <img align="left" alt="Jira" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/jira.jpg" />
 <img align="left" alt="Slack" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/slack.jpg" />
-<img align="left" alt="django" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/django.png" /><br />
+<img align="left" alt="django" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/django.png" /><br><br><br>
 <img align="left" alt="redux" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/redux.png"/>
 <img align="left" alt="sass" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/sass.png" />
 <img align="left" alt="Material-UI" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/MaterialUI.png" vlign=center/>
@@ -56,7 +56,7 @@
 <img align="left" alt="MySQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/MySQL.png"/>
 <img align="left" alt="heroku" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/heroku.png"/>
 
-<br />
+<br>
 
 [react]: https://tr.reactjs.org/
 [vsCode]: https://code.visualstudio.com/
