@@ -54,7 +54,7 @@
 <img align="left" alt="postman" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/postman.png" />
 <img align="left" alt="mongoDB" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/mongoDB.png" />
 <img align="left" alt="MySQL" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MySQL.png"/>
-<img align="left" alt="heroku" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/heroku.png"/>
+<img align="left" alt="heroku" height="45px" src="https://github.com/tarnilok/tarnilok/blob/main/images/heroku.png"/>
 
 <br />
 
@@ -68,10 +68,6 @@
 [HTML]: https://www.w3schools.com/html/
 
 <br />
-<br />
-<br>
-## Medium Articles
-<br><br><br>
 
 - 📫 How to reach me:
 
