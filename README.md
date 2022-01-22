@@ -55,9 +55,7 @@
 <img align="left" alt="mongoDB" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/mongoDB.png" />
 <img align="left" alt="MySQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/MySQL.png"/>
 <img align="left" alt="heroku" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/heroku.png"/>
-
 <br>
-
 [react]: https://tr.reactjs.org/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
