@@ -25,7 +25,7 @@
 - 🥅 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
 - ⚡ Fun fact: I love to running , play chess ♟and cycling 🚴‍♀️
 - 💬 You can ask me anything you want to know
-
+<br>
 
 #### ⏲ What we are doing now:
 - 🚀 I'm developing a project for Teknofest, i keep improving myself 📃.
@@ -56,7 +56,7 @@
 <img align="left" alt="MySQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/MySQL.png"/>
 <img align="left" alt="heroku" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/heroku.png"/>
 
-<br> <hr>
+<br>
 
 [react]: https://tr.reactjs.org/
 [vsCode]: https://code.visualstudio.com/
