@@ -56,7 +56,7 @@
 <img align="left" alt="MySQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/MySQL.png"/>
 <img align="left" alt="heroku" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/heroku.png"/>
 
-<br>
+<br> <hr>
 
 [react]: https://tr.reactjs.org/
 [vsCode]: https://code.visualstudio.com/
