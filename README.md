@@ -25,7 +25,8 @@
 - 🥅 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
 - ⚡ Fun fact: I love to running , play chess ♟and cycling 🚴‍♀️
 - 💬 You can ask me anything you want to know
-<hr>
+
+
 #### ⏲ What we are doing now:
 - 🚀 I'm developing a project for Teknofest, i keep improving myself 📃.
 - 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
