@@ -10,9 +10,6 @@
 <a href="mailto:enes9103" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
 </a>
-<a href="https://medium.com/@enes9103/" target="_blank">
-    <img src="https://miro.medium.com/max/875/1*jfdwtvU6V6g99q3G7gq7dQ.png" alt="https://medium.com/@enes9103">
-</a>
 <a href="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A" target="_blank">
     <img width="80px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A">
 </a>
