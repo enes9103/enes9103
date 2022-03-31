@@ -14,7 +14,7 @@
     <img width="80px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A">
 </a>
 <a>
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
+<img src="./animation_500_kd7ngokt.gif" alt="react" width="20%" height="20%" align="right">
 </a>    
 
 ### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
