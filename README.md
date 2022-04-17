@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=enes9103&show_icons=true&theme=tokyonight" align='right' width="55%">
+
 
 # Hi there 👋 Enes here! Loves developing..
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes9103" alt="enes9103" /> </p>
@@ -10,7 +10,9 @@
 <a href="mailto:enes9103" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
 </a>
-
+<a href="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A" target="_blank">
+    <img width="80px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A">
+</a>
 <a>
 <img src="./animation_500_kd7ngokt.gif" alt="react" width="20%" height="20%" align="right">
 </a>    
