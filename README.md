@@ -1,7 +1,6 @@
 
 
 # Hi there 👋 Enes here! Loves developing..
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enes9103" alt="enes9103" /> </p>
 📩 Connect with me:
 <br>
 <a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
@@ -15,8 +14,34 @@
 </a>
 <a>
 <img src="./animation_500_kd7ngokt.gif" alt="react" width="20%" height="20%" align="right">
-</a>    
+</a>   
+.........................
 
+  <div align="center">
+    <a href="https://my-portfolio-page-resume.herokuapp.com/">
+      <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=f75c7e">
+    </a>
+    <a href="https://my-portfolio-page-resume.herokuapp.com/">
+      <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
+    </a>
+    <a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
+      <img align="center"
+        src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
+    </a>
+    <!-- <a>
+      <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
+    </a> -->
+    <a href="https://www.instagram.com/enes.ai/">
+      <img align="center"
+        src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
+    </a>
+    <a href="https://github.com/enes9103/">
+      <img align="center" src="https://img.shields.io/github/followers/devenes?label=follow&style=social">
+    </a>
+    <a href="mailto:enes9103" target="_blank">
+        <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
+    </a>
+  </div>
 ### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
 - 🥅 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
