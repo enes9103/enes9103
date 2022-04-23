@@ -24,7 +24,7 @@
 - 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
 - 💻 I also work as a FreeLancer.
 <br>
- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px" align="center"> Connect with me:
+ <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px" align="center">Connect with me:
 <br>
 <br>
     <div>
