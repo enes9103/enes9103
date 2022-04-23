@@ -82,7 +82,7 @@
 [linux]: https://www.linux.org/
 [HTML]: https://www.w3schools.com/html/
 
-<br><br><br>
+<br><br>
 
 <!-- ![Enes Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=enes9103) -->
 <p>
@@ -114,6 +114,6 @@
  <br>
  <br>
  🌱 Support:
- 
+  <br>
 <p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="aryasoni98" /></a>
  </div>
