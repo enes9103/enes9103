@@ -86,7 +86,7 @@
 [HTML]: https://www.w3schools.com/html/
 
 <br><br>
-## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"><b>Github Stats :</b>
 <!-- ![Enes Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=enes9103) -->
 <p>
 <a href="https://github.com/enes9103">
