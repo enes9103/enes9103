@@ -28,9 +28,9 @@
 <br>
 <p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px" align="center"><b>Connect with me:</b></p>
 <p">
-  <a href="https://my-portfolio-page-resume.herokuapp.com/">
-    <img border="0" alt="Enes UNLU" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101- lineal-color-itim2101.png"/>
-  </a>
+<a href="https://my-portfolio-page-resume.herokuapp.com/">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101- lineal-color-itim2101.png"/>
+</a>
 
 <a href="https://www.linkedin.com/in/enesunlu/">
 <img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
