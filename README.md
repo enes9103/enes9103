@@ -116,5 +116,4 @@
  🌱 Support:
  <br>
 <p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="aryasoni98" /></a>
- <iframe src="https://giphy.com/embed/hx3VJAZMCaqVSOly3s" width="480" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-code-coding-hx3VJAZMCaqVSOly3s">via GIPHY</a></p>
  </div>
