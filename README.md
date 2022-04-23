@@ -41,7 +41,7 @@
       <img align="center" src="https://img.shields.io/github/followers/enes9103?label=follow&style=social">
     </a>
     <a href="mailto:enes9103" target="_blank">
-      <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
+      <img align="center" src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
     </a>
   </div>
 
