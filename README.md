@@ -2,6 +2,10 @@
 
 # Hi there 👋 Enes here! Loves developing..
  <br>
+ <p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+React+Developer" /></a>
+</p>
+ <br>
  <a href="https://my-portfolio-page-resume.herokuapp.com/" target="_blank">
     <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=f75c7e">
  </a>
