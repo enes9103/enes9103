@@ -1,29 +1,17 @@
 
 
 # Hi there 👋 Enes here! Loves developing..
+ <a href="https://my-portfolio-page-resume.herokuapp.com/">
+    <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=f75c7e">
+ </a>
+ <a href="https://my-portfolio-page-resume.herokuapp.com/">
+    <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
+ </a>
+ <br>
 📩 Connect with me:
 <br>
-<a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
-</a>
-<a href="mailto:enes9103" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
-</a>
-<a href="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A" target="_blank">
-    <img width="80px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A">
-</a>
-<a>
-<img src="./animation_500_kd7ngokt.gif" alt="react" width="20%" height="20%" align="right">
-</a>   
-.........................
-
   <div align="center">
-    <a href="https://my-portfolio-page-resume.herokuapp.com/">
-      <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=f75c7e">
-    </a>
-    <a href="https://my-portfolio-page-resume.herokuapp.com/">
-      <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
-    </a>
+   
     <a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
       <img align="center"
         src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
@@ -41,7 +29,15 @@
     <a href="mailto:enes9103" target="_blank">
         <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
     </a>
-  </div>
+    <a href="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A" target="_blank">
+        <img width="80px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCriSepoiZ83JZxJakvnUw_A">
+    </a>
+    <a>
+        <img src="./animation_500_kd7ngokt.gif" alt="react" width="20%" height="20%" align="right">
+    </a>   
+</div>
+<br>
+
 ### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
 - 🥅 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
