@@ -24,6 +24,7 @@
 <br>
  📩 Connect with me:
 <br>
+<br>
     <div>
     <a href="https://www.linkedin.com/in/enesunlu/" target="_blank">
       <img align="center"
@@ -92,10 +93,22 @@
 
 📫 How to reach me:
 
---> 
-<a href="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/enes-unlu-fullstackdeveloper/">
-</a>
-<a href="mailto:enes9103" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
-</a>
+    <div>
+    <a href="https://www.linkedin.com/in/enesunlu/" target="_blank">
+      <img align="center"
+        src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
+    </a>
+    <!-- <a>
+      <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
+    </a> -->
+    <a href="https://www.instagram.com/enesunlu0303/">
+      <img align="center"
+        src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
+    </a>
+    <a href="https://github.com/enes9103/">
+      <img align="center" src="https://img.shields.io/github/followers/enes9103?label=follow&style=social">
+    </a>
+    <a href="mailto:enes9103" target="_blank">
+      <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
+    </a>
+  </div>
