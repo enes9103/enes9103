@@ -10,25 +10,19 @@
  <br>
 ## 📩 Connect with me:
 <br>
-    <div align="center">
-    <a href="https://www.enes.software/">
-      <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=f75c7e">
-    </a>
-    <a href="https://www.enes.software/">
-      <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
-    </a>
-    <a href="https://www.linkedin.com/in/devenes/">
+    <div>
+    <a href="https://www.linkedin.com/in/enesunlu/">
       <img align="center"
         src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
     </a>
     <!-- <a>
       <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
     </a> -->
-    <a href="https://www.instagram.com/enes.ai/">
+    <a href="https://www.instagram.com/enesunlu0303/">
       <img align="center"
         src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
     </a>
-    <a href="https://github.com/devenes/">
+    <a href="https://github.com/enes9103/">
       <img align="center" src="https://img.shields.io/github/followers/devenes?label=follow&style=social">
     </a>
   </div>
