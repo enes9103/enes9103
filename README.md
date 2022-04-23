@@ -1,6 +1,7 @@
 
 
 # Hi there 👋 Enes here! Loves developing..
+ <br>
  <a href="https://my-portfolio-page-resume.herokuapp.com/" target="_blank">
     <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=f75c7e">
  </a>
@@ -8,6 +9,19 @@
     <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
  </a>
  <br>
+
+### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
+- 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
+- 🥅 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
+- ⚡ Fun fact: I love to running , play chess ♟and cycling 🚴‍♀️
+- 💬 You can ask me anything you want to know
+
+
+#### ⏲ What we are doing now:
+- 🚀 I'm developing a project for Teknofest, i keep improving myself 📃.
+- 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
+- 💻 I also work as a FreeLancer.
+<br>
  📩 Connect with me:
 <br>
     <div>
@@ -29,19 +43,6 @@
       <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
     </a>
   </div>
-  
-
-### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
-- 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
-- 🥅 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
-- ⚡ Fun fact: I love to running , play chess ♟and cycling 🚴‍♀️
-- 💬 You can ask me anything you want to know
-
-
-#### ⏲ What we are doing now:
-- 🚀 I'm developing a project for Teknofest, i keep improving myself 📃.
-- 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
-- 💻 I also work as a FreeLancer.
 
 ![gitartwork](gitartwork.svg)
 
