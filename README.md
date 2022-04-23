@@ -114,6 +114,6 @@
  <br>
  <br>
  🌱 Support:
-  <br>
+ <br>
 <p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="aryasoni98" /></a>
  </div>
