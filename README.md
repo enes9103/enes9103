@@ -1,5 +1,3 @@
-
-
 # Hi there, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <img align="right" style="width:16rem; height:auto" src="https://github.com/enes9103/enes9103/blob/main/geek.gif"/>
  <p>
