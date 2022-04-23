@@ -27,25 +27,31 @@
 - 💻 I also work as a FreeLancer.
 <br>
 <p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px" align="center"><b>Connect with me:</b></p>
-    <div>
-    <a href="https://www.linkedin.com/in/enesunlu/" target="_blank">
-      <img align="center"
-        src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
-    </a>
-    <!-- <a>
-      <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
-    </a> -->
-    <a href="https://www.instagram.com/enesunlu0303/">
-      <img align="center"
-        src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
-    </a>
-    <a href="https://github.com/enes9103/">
-      <img align="center" src="https://img.shields.io/github/followers/enes9103?label=follow&style=social">
-    </a>
-    <a href="mailto:enes9103" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
-    </a>
-  </div>
+<p">
+  <a href="https://my-portfolio-page-resume.herokuapp.com/">
+    <img border="0" alt="Enes UNLU" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101- lineal-color-itim2101.png"/>
+  </a>
+
+<a href="https://www.linkedin.com/in/enesunlu/">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+
+<a href="https://twitter.com/Enes9103">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/nolan/40/twitter.png"/>
+</a>
+
+<a href="https://www.instagram.com/enesunlu0303/">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+</a>
+
+<a href="https://t.me/Enes9103">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+</a>
+
+<a href="mailto:enes9103@gmail.com">
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
+</p>
 <br>
 
 ![gitartwork](gitartwork.svg)
