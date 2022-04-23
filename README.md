@@ -95,7 +95,7 @@
 </a>
 </p>
 
-📫 How to reach me:
+📫 <b>How to reach me:</b>
 
 <div>
 <a href="https://www.linkedin.com/in/enesunlu/" target="_blank">
@@ -116,7 +116,7 @@
     </a>
  <br>
  <br>
- 🌱 Support:
+ 🌱 <b>Support:</b>
  <br>
 <p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="aryasoni98" /></a>
  </div>
