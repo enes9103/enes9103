@@ -25,8 +25,6 @@
 - 💻 I also work as a FreeLancer.
 <br>
  <p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px" align="center">Connect with me:</p>
-<br>
-<br>
     <div>
     <a href="https://www.linkedin.com/in/enesunlu/" target="_blank">
       <img align="center"
