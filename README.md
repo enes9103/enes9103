@@ -1,17 +1,17 @@
 
 
 # Hi there 👋 Enes here! Loves developing..
- <a href="https://my-portfolio-page-resume.herokuapp.com/">
+ <a href="https://my-portfolio-page-resume.herokuapp.com/" target="_blank">
     <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=f75c7e">
  </a>
- <a href="https://my-portfolio-page-resume.herokuapp.com/">
+ <a href="https://my-portfolio-page-resume.herokuapp.com/" target="_blank">
     <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
  </a>
  <br>
-## 📩 Connect with me:
+ 📩 Connect with me:
 <br>
     <div>
-    <a href="https://www.linkedin.com/in/enesunlu/">
+    <a href="https://www.linkedin.com/in/enesunlu/" target="_blank">
       <img align="center"
         src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
     </a>
