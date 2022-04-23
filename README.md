@@ -25,6 +25,7 @@
     <a href="https://github.com/enes9103/">
       <img align="center" src="https://img.shields.io/github/followers/devenes?label=follow&style=social">
     </a>
+   <a href="mailto:enes9103k@gmail.com" target="blank"><img align="center" src="https://github.com/enes9103/enes9103/blob/main/images/Gmail.svg" alt="gmail" /></a>
   </div>
   
 
