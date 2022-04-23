@@ -101,7 +101,7 @@
 <a href="https://www.linkedin.com/in/enesunlu/" target="_blank"><img src="https://img.shields.io/badge/-Enes_UNLU-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="https://www.instagram.com/enesunlu0303/" target="_blank"><img src="https://img.shields.io/badge/-Enes_UNLU-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="https://twitter.com/Enes9103" target="_blank"><img src="https://img.shields.io/badge/-Enes__UNLU-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
-<a href="mailto:enes9103@gmail.com"><img src="https://img.shields.io/badge/-enes9103@gmail.com-white?logo=thunderbird&style=flat-square" alt="mail"/></a>
+<a href="mailto:enes9103@gmail.com"><img src="https://img.shields.io/badge/-enes9103@gmail.com-white?logo=thunderbird&style=flat-square" width="10px" alt="mail"/></a>
  <br>
  <br>
  🌱 <b>Support:</b>
