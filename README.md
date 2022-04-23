@@ -93,14 +93,13 @@
 
 📫 How to reach me:
 
-    <div>
-    <a href="https://www.linkedin.com/in/enesunlu/" target="_blank">
-      <img align="center"
-        src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
-    </a>
-    <!-- <a>
-      <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
-    </a> -->
+<div>
+<a href="https://www.linkedin.com/in/enesunlu/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
+</a>
+<a>
+ <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
+</a>
     <a href="https://www.instagram.com/enesunlu0303/">
       <img align="center"
         src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
@@ -111,4 +110,4 @@
     <a href="mailto:enes9103" target="_blank">
       <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
     </a>
-  </div>
+ </div>
