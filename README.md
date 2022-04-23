@@ -97,23 +97,11 @@
 
 📫 <b>How to reach me:</b>
 
-<div>
-<a href="https://www.linkedin.com/in/enesunlu/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
-</a>
-<a>
- <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
-</a>
-    <a href="https://www.instagram.com/enesunlu0303/">
-      <img align="center"
-        src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
-    </a>
-    <a href="https://github.com/enes9103/">
-      <img align="center" src="https://img.shields.io/github/followers/enes9103?label=follow&style=social">
-    </a>
-    <a href="mailto:enes9103" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:enes9103@gmail.com">
-    </a>
+ <a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Enes_UNLU-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://www.linkedin.com/in/enesunlu/" target="_blank"><img src="https://img.shields.io/badge/-Enes_UNLU-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.instagram.com/enesunlu0303/" target="_blank"><img src="https://img.shields.io/badge/-Enes_UNLU-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="https://twitter.com/Enes9103" target="_blank"><img src="https://img.shields.io/badge/-Enes__UNLU-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
+<a href="mailto:enees9103@gmail.com"><img src="https://img.shields.io/badge/-enees9103@gmail.com-white?logo=thunderbird&style=flat-square" alt="mail"/></a>
  <br>
  <br>
  🌱 <b>Support:</b>
