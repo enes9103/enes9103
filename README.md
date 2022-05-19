@@ -3,10 +3,10 @@
  <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+React+Developer" /></a>
 </p>
- <a href="https://my-portfolio-page-resume.herokuapp.com/" target="_blank">
+ <a href="https://enes-unlu-portfolio.netlify.app/" target="_blank">
     <img align="center" src="https://komarev.com/ghpvc/?username=enes9103&color=f75c7e">
  </a>
- <a href="https://my-portfolio-page-resume.herokuapp.com/" target="_blank">
+ <a href="https://enes-unlu-portfolio.netlify.app/" target="_blank">
     <img align="center" src="https://img.shields.io/github/followers/enes9103?style=flat-square&color=f75c7e">
  </a>
  <br>
