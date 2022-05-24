@@ -98,6 +98,12 @@
 </a>
 </p>
 
+### 🏅 Achievements
+
+<a href="https://rawcdn.githack.com/jayvdb/jayvdb/main/github-metrics.html">
+<img src="./achievements.svg">
+</a>
+
 📫 <b>How to reach me:</b>
 
  <a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Enes_UNLU-black?logo=github&style=flat-square" alt="github"/></a>
