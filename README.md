@@ -24,7 +24,7 @@
 - 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
 - 💻 I also work as a FreeLancer.
 <br>
-<p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px" align="center"><b>Connect with me:</b></p>
+<p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64" align="center"><b>Connect with me:</b></p>
 <p">
 <a href="https://my-portfolio-page-resume.herokuapp.com/">
 <img border="0" alt="Enes UNLU" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
@@ -53,7 +53,7 @@
 
 ![gitartwork](gitartwork.svg)
 
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width = 28px><b> Languages and Tools:</b>
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width = "28"><b> Languages and Tools:</b>
 <br><br>
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
