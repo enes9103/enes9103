@@ -1,4 +1,4 @@
-# Hi there, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="250"/>
+# Hi there, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="300"/>
 
  <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+React+Developer" /></a>
@@ -89,7 +89,7 @@
 [HTML]: https://www.w3schools.com/html/
 
 <br><br>
-<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"><b>Github Stats :</b>
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <!-- ![Enes Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=enes9103) -->
 <p>
 <a href="https://github.com/enes9103">
