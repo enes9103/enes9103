@@ -89,6 +89,11 @@
 
 <br><br>
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=enes9103&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enes9103&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes9103&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <!-- ![Enes Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=enes9103) -->
 <p>
