@@ -100,7 +100,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-        [![trophy](https://github-profile-trophy.vercel.app/?username=enes9103)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=enes9103)](https://github.com/ryo-ma/github-profile-trophy)
 
 📫 <b>How to reach me:</b>
 
