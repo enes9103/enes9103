@@ -92,8 +92,8 @@
 <!-- ![Enes Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=enes9103) -->
 <p>
 <a href="https://github.com/enes9103">
-  <img height="180em" width="1100em" src="https://github-readme-stats.vercel.app/api?username=enes9103&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="1100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enes9103&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="170em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=enes9103&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="1100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enes9103&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
 
