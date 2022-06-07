@@ -90,11 +90,10 @@
 <br><br>
 
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
-![Enes Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=enes9103)
-<p>
+<p align="center" width="100%">
 <a href="https://github.com/enes9103">
-  <img height="180em" width="49%" textalign="center" src="https://github-readme-stats.vercel.app/api?username=enes9103&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" textalign="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enes9103&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="180em" width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=enes9103&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enes9103&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
 
