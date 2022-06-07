@@ -100,6 +100,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=enes9103)](https://github.com/ryo-ma/github-profile-trophy)
 
 📫 <b>How to reach me:</b>
 
@@ -114,3 +115,5 @@
  <br>
 <p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="aryasoni98" /></a>
  </div>
+ 
+<!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> -->
