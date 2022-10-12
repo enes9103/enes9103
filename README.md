@@ -74,8 +74,10 @@
 <img align="left" alt="styledcomponent" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/styledcomponents.png" />
 <img align="left" alt="postgreSQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/PostgreSQL.png" />
 <img align="left" alt="postman" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/postman.png" />
-<img align="left" alt="MySQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/MySQL.png"/>
+<img align="left" alt="MySQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/MySQL.png"/><br><br><br>
 <img align="left" alt="heroku" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/heroku.png"/>
+<img align="left" alt="storybook" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/storybook.png"/>
+
 <br>
 
 [react]: https://tr.reactjs.org/
