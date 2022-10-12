@@ -61,6 +61,8 @@
 [<img align="left" alt="HTML5" width="62px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />][HTML]
 [<img align="left" alt="Javascript" width="64px" src="https://img2.pngindir.com/20180720/pjj/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8.5939232615320700654495.jpg" />][js]
 [<img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" />][react]
+<img align="left" alt="typescript" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/typescript.png" />
+<img align="left" alt="nextjs" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/Nextjs.png" />
 <img align="left" alt="Jquery" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/jquery.png" />
 [<img align="left" alt="Linux" width="69px" src="https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png" />][linux]
 <img align="left" alt="Jira" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/jira.jpg" />
@@ -74,9 +76,10 @@
 <img align="left" alt="styledcomponent" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/styledcomponents.png" />
 <img align="left" alt="postgreSQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/PostgreSQL.png" />
 <img align="left" alt="postman" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/postman.png" />
-<img align="left" alt="MySQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/MySQL.png"/><br><br><br>
-<img align="left" alt="heroku" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/heroku.png"/>
 <img align="left" alt="storybook" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/storybook.png"/>
+<br><br><br>
+<img align="left" alt="heroku" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/heroku.png"/>
+
 
 <br>
 
