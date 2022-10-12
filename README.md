@@ -70,7 +70,7 @@
 <img align="left" alt="sass" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/sass.png" />
 <img align="left" alt="Material-UI" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/MaterialUI.png" vlign=center/>
 <img align="left" alt="bootstrap" widtsh="55px" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/Bootstrap.jpg" />
-<img align="left" alt="bootstrap" widtsh="55px" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/TailwindCss.svg" />
+<img align="left" alt="tailwindcss" widtsh="55px" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/tailwindcss.jpg" />
 <img align="left" alt="styledcomponent" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/styledcomponents.png" />
 <img align="left" alt="postgreSQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/PostgreSQL.png" />
 <img align="left" alt="postman" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/postman.png" />
