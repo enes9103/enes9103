@@ -63,7 +63,7 @@
 [<img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" />][react]
 <img align="left" alt="typescript" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/typescript.png" />
 <img align="left" alt="nextjs" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/Nextjs.png" />
-<img align="left" alt="Jquery" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/jquery.png" />
+<img align="left" alt="Jquery" height="40px" src="https://github.com/enes9103/enes9103/blob/main/images/jquery.png" />
 [<img align="left" alt="Linux" width="69px" src="https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png" />][linux]<br><br><br>
 <img align="left" alt="Jira" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/jira.jpg" />
 <img align="left" alt="Slack" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/slack.jpg" />
