@@ -70,7 +70,7 @@
 <img align="left" padding="2px" alt="django" height="60px" src="https://github.com/enes9103/enes9103/blob/main/images/django1.png" />
 <img align="left" alt="redux" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/redux.png"/>
 <img align="left" alt="sass" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/sass.png" />
-<img align="left" alt="Material-UI" width="40px" src="https://github.com/enes9103/enes9103/blob/main/images/MaterialUI.png" vlign=center/>
+<img align="left" alt="Material-UI" width="50px" height="40px" src="https://github.com/enes9103/enes9103/blob/main/images/MaterialUI.png" vlign=center/>
 <img align="left" alt="bootstrap" widtsh="55px" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/Bootstrap.jpg" />
 <img align="left" alt="tailwindcss" widtsh="55px" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/tailwindcss.png" />
 <img align="left" alt="styledcomponent" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/styledcomponents.png" />
