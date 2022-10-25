@@ -74,8 +74,8 @@
 <img align="left" alt="tailwindcss" widtsh="55px" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/tailwindcss.png" />
 <img align="left" alt="styledcomponent" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/styledcomponents.png" />
 <img align="left" alt="postgreSQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/PostgreSQL.png" />
-<br><br><br><br>
 <img align="left" alt="postman" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/postman.png" />
+<br><br><br><br>
 <img align="left" alt="storybook" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/storybook.png"/>
 <img align="left" alt="heroku" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/heroku.png"/>
 
