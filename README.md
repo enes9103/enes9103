@@ -11,7 +11,7 @@
  </a>
  <br>
 
-### 📑 I'm currently doing front and backend development (Javascript | React.js | Next.js | Python | Django)
+### 📑 I'm currently doing front and backend development (Javascript | React.js | Next.js | Typescript | Python | Django)
 - 🌱 I’m currently learning **To be Extroverted**
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
 - 🥅 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
