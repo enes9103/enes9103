@@ -76,8 +76,10 @@
 <img align="left" alt="postgreSQL" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/PostgreSQL.png" />
 <img align="left" alt="postman" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/postman.png" />
 <br><br><br><br>
+<img align="left" alt="nodejs" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/nodejs.png"/>
+<img align="left" alt="expressjs" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/expressjs.png"/>
+<img align="left" alt="mongodb" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/mongodb.png"/>
 <img align="left" alt="storybook" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/storybook.png"/>
-<img align="left" alt="heroku" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/heroku.png"/>
 
 <br>
 
