@@ -78,7 +78,7 @@
 <br><br><br><br>
 <img align="left" alt="nodejs" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/nodejs.png"/>
 <img align="left" alt="expressjs" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/expressjs.png"/>
-<img align="left" alt="mongodb" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/mongodb.png"/>
+<img align="left" alt="mongodb" height="60px" src="https://github.com/enes9103/enes9103/blob/main/images/mongodb.png"/>
 <img align="left" alt="storybook" height="45px" src="https://github.com/enes9103/enes9103/blob/main/images/storybook.png"/>
 
 <br>
