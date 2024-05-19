@@ -11,17 +11,23 @@
  </a>
  <br>
 
-### 📑 I'm currently doing frontend and backend development (Javascript | React.js | Next.js | Typescript | Python | Django)
-- 🌱 I’m currently learning **To be Extroverted**
+# 💼 About Me
+### 📑 I'm a Frontend Developer with over 3 years of experience (Javascript | React.js | Next.js | Typescript)
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
-- 🥅 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
-- ⚡ Fun fact: I love to running , play chess ♟and cycling 🚴‍♀️
+- 🥅 Goals: Developing an app to be recognized worldwide and learning virtual reality and artificial intelligence 🤖
+- ⚡ Fun fact: I love running, and cycling 🚴‍♀️
 - 💬 You can ask me anything you want to know
 
-#### ⏲ What we are doing now:
-- 🚀 I'm developing a project for Teknofest, i keep improving myself 📃.
-- 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
-- 💻 I also work as a FreeLancer.
+## ⏲ What We Are Doing Now:
+- 🚀 I continue to develop MERN stack projects.
+- 👨🏼‍🤝‍👨🏻 I'm developing an app with my company.
+- 💻 I also work as a freelancer.
+
+## 🚀 Technologies I Use:
+- **Frontend:** JavaScript, React.js, Next.js, Typescript, Redux, Most current css libraries, etc.
+- **Backend:** Node.js, Express.js
+- **Tools:** Git, GitHub, Webpack, Jest, Docker, Figma,
+- **Database:** MongoDB, PostgreSQL,
 <br>
 <p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64" align="center"><b>Connect with me:</b></p>
 <p">
