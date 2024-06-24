@@ -12,7 +12,7 @@
  <br>
 
 # 💼 About Me
-### 📑 I'm a Frontend Developer with over 3 years of experience (Javascript | React.js | Next.js | Typescript)
+### 📑 I'm a MERN Stack Developer
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
 - 🥅 Goals: Developing an app to be recognized worldwide and learning virtual reality and artificial intelligence 🤖
 - ⚡ Fun fact: I love running, and cycling 🚴‍♀️
@@ -25,8 +25,8 @@
 
 ## 🚀 Technologies I Use:
 - **Frontend:** JavaScript, React.js, Next.js, Typescript, Redux, Most current css libraries, etc.
-- **Backend:** Node.js, Express.js
-- **Tools:** Git, GitHub, Webpack, Jest, Docker, Figma,
+- **Backend:** Node.js, Express.js, etc.
+- **Tools:** Git, GitHub, Webpack, Jest, Docker, Figma, Postman, Cypres
 - **Database:** MongoDB, PostgreSQL,
 <br>
 <p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64" align="center"><b>Connect with me:</b></p>
