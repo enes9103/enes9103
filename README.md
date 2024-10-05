@@ -1,7 +1,7 @@
 # Hi there, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="300"/>
 
  <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+React+Developer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Frontend+Developer;I'm+a+Frontend+Developer;I'm+a+React+Developer" /></a>
 </p>
  <a href="https://enes-unlu-portfolio.netlify.app/" target="_blank">
     <img align="center" src="https://komarev.com/ghpvc/?username=enes9103&color=f75c7e">
@@ -12,7 +12,7 @@
  <br>
 
 # 💼 About Me
-### 📑 I'm a MERN Stack Developer
+### 📑 I'm a Frontend Developer
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
 - 🥅 Goals: Developing an app to be recognized worldwide and learning virtual reality and artificial intelligence 🤖
 - ⚡ Fun fact: I love running, and cycling 🚴‍♀️
@@ -26,7 +26,7 @@
 ## 🚀 Technologies I Use:
 - **Frontend:** JavaScript, React.js, Next.js, Typescript, Redux, Most current css libraries, etc.
 - **Backend:** Node.js, Express.js, etc.
-- **Tools:** Git, GitHub, Webpack, Jest, Docker, Figma, Postman, Cypres
+- **Tools:** Git, GitHub, Webpack, Jest, Docker, Figma, Postman, Cypress
 - **Database:** MongoDB, PostgreSQL,
 <br>
 <p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64" align="center"><b>Connect with me:</b></p>
