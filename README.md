@@ -19,7 +19,7 @@
 
 🎯 **Senior Frontend Developer** with Full-Stack experience  
 💻 Building scalable, dynamic and responsive web applications using **React.js**, **Next.js**, and **TypeScript**  
-🌍 Worked at **Trive Investment**, **Pegasus Airlines**, and **Hyperdev Technology**  
+🌍 Worked at **Trive Technology**, **Pegasus Airlines**, and **Hyperdev Technology**  
 ⚙️ Strong command of **Redux Toolkit**, **SASS**, **TailwindCSS**, and **Material UI**  
 🛠 Familiar with backend tech like **Node.js**, **Express.js**, and **MongoDB**  
 🎯 Passionate about user experience, performance optimization, and teamwork  
@@ -57,8 +57,6 @@
 ---
 
 ## 🎓 Education & Certification
-
-📜 **Full Stack Developer Certificate** – IT Bootcamp, USA  
 🎓 Master’s in Educational Technologies – Sakarya University  
 🎓 Bachelor’s in Business Administration – Anadolu University  
 
