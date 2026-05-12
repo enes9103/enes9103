@@ -19,7 +19,7 @@
 
 🎯 **Senior Frontend Developer** with 6+ years of experience and full-stack capabilities  
 💻 Building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**  
-🌍 Worked at **Trive Technology**, **Pegasus Airlines (via Nexum)**, and **Hyperdev Technology**  
+🌍 Worked at **Trive Technology**, **Pegasus Airlines (via Nexum)**, **Hyperdev Technology** and **Safe Analyzer** 
 ⚙️ Specialized in **performance optimization**, modular architecture, and component-driven development  
 🛠 Proficient in modern tooling: **Vite**, **React Query**, **Zustand**, **Storybook**, **GraphQL**  
 🔗 Experienced with **Web3.js** and **Solidity** from blockchain security platform development  
