@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="300"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=22&center=false&vCenter=true&lines=Senior+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Passionate+about+Modern+UI/UX)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=22&center=false&vCenter=true&lines=Senior+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Performance+%26+Architecture+Focused)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <p>
   <a href="https://enes-unlu-portfolio.netlify.app/" target="_blank">
@@ -17,48 +17,77 @@
 
 ## 💼 About Me
 
-🎯 **Senior Frontend Developer** with Full-Stack experience  
-💻 Building scalable, dynamic and responsive web applications using **React.js**, **Next.js**, and **TypeScript**  
-🌍 Worked at **Trive Technology**, **Pegasus Airlines**, and **Hyperdev Technology**  
-⚙️ Strong command of **Redux Toolkit**, **SASS**, **TailwindCSS**, and **Material UI**  
-🛠 Familiar with backend tech like **Node.js**, **Express.js**, and **MongoDB**  
-🎯 Passionate about user experience, performance optimization, and teamwork  
-🌱 Currently working on large-scale fintech and real estate projects
+🎯 **Senior Frontend Developer** with 6+ years of experience and full-stack capabilities  
+💻 Building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**  
+🌍 Worked at **Trive Technology**, **Pegasus Airlines (via Nexum)**, and **Hyperdev Technology**  
+⚙️ Specialized in **performance optimization**, modular architecture, and component-driven development  
+🛠 Proficient in modern tooling: **Vite**, **React Query**, **Zustand**, **Storybook**, **GraphQL**  
+🔗 Experienced with **Web3.js** and **Solidity** from blockchain security platform development  
+🌱 Currently building large-scale fintech infrastructure at **Trive Technology**
 
 ---
 
 ## 🚀 Tech Stack
 
 **Frontend:**  
-`JavaScript`, `TypeScript`, `React.js`, `Next.js`, `Redux`, `Storybook`, `TailwindCSS`, `Material-UI`, `Bootstrap`, `SASS`
+`React.js` `Next.js` `TypeScript` `JavaScript (ES6+)` `Redux / Redux Toolkit` `React Query / TanStack Query` `Zustand`
 
-**Backend & DB:**  
-`Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`
+**Styling:**  
+`TailwindCSS` `SASS/SCSS` `Material UI` `Bootstrap`
 
-**Testing & Tools:**  
-`Jest`, `Cypress`, `Postman`, `Git`, `GitHub`, `Docker`, `Figma`, `Jira`
+**UI & Design:**  
+`Storybook` `Figma`
+
+**Forms & Validation:**  
+`React Hook Form` `Zod / Yup`
+
+**Backend:**  
+`Node.js` `Express.js` `REST APIs` `GraphQL`
+
+**Databases:**  
+`MongoDB` `SQL`
+
+**Testing:**  
+`Jest` `Cypress` `React Testing Library`
+
+**Build Tools:**  
+`Vite` `Webpack / Babel`
+
+**Deployment:**  
+`Vercel` `Netlify`
+
+**Tools & Practices:**  
+`Git` `GitHub` `CI/CD` `Agile/Scrum` `Jira` `Docker`
+
+**Other:**  
+`Web3.js` `Solidity`
 
 ---
 
 ## 🧠 Highlight Projects
 
 ### 🔹 [Trive International Partners Portal](https://partnerinternational.trive.com/)
-> Developed scalable infrastructure, high-volume data handling, and financial dashboards.
+> Sole frontend architect of a finance & exchange portal deployed across **5+ international markets**. Built with React, TypeScript, Redux, React Query, and Vite. Improved page load performance by ~25% and reduced feature development time by ~25%.
 
 ### 🔹 [Pegasus Airlines Reservation System](https://www.flypgs.com/)
-> Built a fast and secure flight search & booking interface using React & Redux Toolkit.
+> Led the full frontend migration from **legacy jQuery to React.js and Redux Toolkit** for a platform serving **1M+ monthly users**. Rebuilt flight search, secure routing, and end-to-end reservation flows.
 
 ### 🔹 [Paribu Cineverse](https://www.paribucineverse.com/)
-> Pixel-perfect order & reservation system with an immersive UX.
+> Developed frontend features for a large-scale cinema booking platform. Focused on pixel-perfect UI, seamless reservation workflows, and API integrations within a cross-functional agency team.
 
-### 🔹 [PayOto](https://payoto.com/)
-> Real estate and financing platform - handled API services, auth, and multiple panel integrations.
+### 🔹 [Nomino — AI-Powered Recommendation Platform](https://nomino.fun/tr)
+> Built frontend interfaces for a personalized content recommendation platform powered by user behavior data. Implemented responsive components and backend API integrations.
+
+### 🔹 [PayOto — Vehicle & Real Estate Financing App](https://payoto.com/)
+> Delivered multiple production-ready panels (consumer, operations, finance) within the PayOto ecosystem using React.js, Next.js, and reusable component systems.
 
 ---
 
-## 🎓 Education & Certification
-🎓 Master’s in Educational Technologies – Sakarya University  
-🎓 Bachelor’s in Business Administration – Anadolu University  
+## 🎓 Education
+
+🎓 **Master's Degree**, Educational Programs & Teaching Methods — Sakarya University  
+🎓 **Bachelor's Degree**, Business Administration — Anadolu University  
+💡 Transitioned into software development through self-directed learning and 6+ years of professional practice.
 
 ---
 
