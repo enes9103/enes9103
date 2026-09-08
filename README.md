@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="300"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=22&center=false&vCenter=true&lines=Full Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Performance+%26+Architecture+Focused)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=22&center=false&vCenter=true&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Performance+%26+Architecture+Focused)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <p>
   <a href="https://enes-unlu-portfolio.netlify.app/" target="_blank">
