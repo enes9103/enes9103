@@ -17,7 +17,7 @@
 
 ## 💼 About Me
 
-🎯 **Senior Frontend Developer** with 5+ years of experience and full-stack capabilities  
+🎯 ** Full Stack Developer** with 5+ years of experience 
 💻 Building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**  
 🌍 Worked at **Trive Technology**, **Pegasus Airlines (via Nexum)**, **Hyperdev Technology** and **Safe Analyzer** 
 ⚙️ Specialized in **performance optimization**, modular architecture, and component-driven development  
@@ -42,7 +42,7 @@
 `React Hook Form` `Zod / Yup`
 
 **Backend:**  
-`Node.js` `Express.js` `REST APIs` `GraphQL`
+`Node.js` `Express.js` `REST APIs` `GraphQL` `ASP.NET Core`
 
 **Databases:**  
 `MongoDB` `SQL`
