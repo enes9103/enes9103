@@ -18,7 +18,7 @@
 ## 💼 About Me
 
 🎯 ** Full Stack Developer** with 5+ years of experience     
-💻 Building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**  
+💻 Building scalable, high-performance web applications using **Node.js**, **Express.js**, **React.js**, **Next.js**, and **TypeScript**  
 🌍 Worked at **Trive Technology**, **Pegasus Airlines (via Nexum)**, **Hyperdev Technology** and **Safe Analyzer** 
 ⚙️ Specialized in **performance optimization**, modular architecture, and component-driven development  
 🛠 Proficient in modern tooling: **Vite**, **React Query**, **Zustand**, **Storybook**, **GraphQL**  
@@ -42,7 +42,7 @@
 `React Hook Form` `Zod / Yup`
 
 **Backend:**  
-`Node.js` `Express.js` `REST APIs` `GraphQL` `ASP.NET Core`
+`Node.js` `Express.js` `REST APIs` `GraphQL` `ASP.NET Core`, `.NET 6+`
 
 **Databases:**  
 `MongoDB` `SQL`
